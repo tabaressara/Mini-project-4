@@ -49,4 +49,4 @@ One-Shot FX: short synthesized effects created directly in PD (horn, snare, cras
 
 ## Video
 
-[Video](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+[Video](https://youtu.be/Hu8Svw1Wsow)
